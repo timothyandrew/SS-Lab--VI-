@@ -1,0 +1,10 @@
+int main(){
+//Comment Line
+/*Comment Block
+Block
+Still a block
+*/
+/* Line block */
+  int a = 0;
+  return 0;
+}
